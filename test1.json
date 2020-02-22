@@ -1,0 +1,55 @@
+{
+  "elements": [
+    {
+      "EAN": "00001",
+      "Name": "Cola",
+      "Category": "Soda"
+    },
+    {
+      "EAN": "00002",
+      "Name": "Fanta",
+      "Category": "Soda"
+    },
+    {
+      "EAN": "00003",
+      "Name": "RedBull",
+      "Category": "Soda"
+    },
+    {
+      "EAN": "00004",
+      "Name": "Snickers",
+      "Category": "Snack"
+    },
+    {
+      "EAN": "00005",
+      "Name": "Banana",
+      "Category": "Fruit"
+    },
+    {
+      "EAN": "00006",
+      "Name": "Apple",
+      "Category": "Fruit"
+    },
+    {
+      "EAN": "00007",
+      "Name": "Pizza",
+      "Category": "Dinner"
+    },
+    {
+      "EAN": "00008",
+      "Name": "Taco",
+      "Category": "Dinner"
+    },
+    {
+      "EAN": "00009",
+      "Name": "Kebab",
+      "Category": "Dinner"
+    }
+    ,
+    {
+      "EAN": "00010",
+      "Name": "Food",
+      "Category": "Dinner"
+    }
+  ]
+}
