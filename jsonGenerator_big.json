@@ -1,0 +1,1032 @@
+{ "elements": [ { "EAN": "1303005438616", "Name": "appelsin",
+"Category": "middag" }, { "EAN": "3049967551989", "Name": "eple",
+"Category": "dessert" }, { "EAN": "7092563584508", "Name": "pizza",
+"Category": "dessert" }, { "EAN": "7245551780400", "Name":
+"monster_energidrikk", "Category": "middag" }, { "EAN": "8101252368058",
+"Name": "monster_energidrikk", "Category": "drikke" }, { "EAN":
+"1103293633516", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"3545864759035", "Name": "eple", "Category": "dessert" }, { "EAN":
+"1624656966170", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"7492665273331", "Name": "pizza", "Category": "dessert" }, { "EAN":
+"2403413411817", "Name": "pizza", "Category": "frokost" }, { "EAN":
+"8552343815197", "Name": "eple", "Category": "frukt" }, { "EAN":
+"7864977777316", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"3827521722166", "Name": "appelsin", "Category": "middag" }, { "EAN":
+"6491121075901", "Name": "pizza", "Category": "drikke" }, { "EAN":
+"1595132836505", "Name": "appelsin", "Category": "dessert" }, { "EAN":
+"8090297699761", "Name": "appelsin", "Category": "godteri" }, { "EAN":
+"7547651064246", "Name": "eple", "Category": "frokost" }, { "EAN":
+"5476610634149", "Name": "eple", "Category": "godteri" }, { "EAN":
+"6865078271656", "Name": "banan", "Category": "godteri" }, { "EAN":
+"6090858842650", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "2070609621834", "Name": "banan", "Category": "frukt" }, {
+"EAN": "4669940167729", "Name": "kebab", "Category": "godteri" }, {
+"EAN": "8285529714866", "Name": "banan", "Category": "dessert" }, {
+"EAN": "7814410037314", "Name": "pizza", "Category": "frokost" }, {
+"EAN": "1594529650914", "Name": "appelsin", "Category": "frukt" }, {
+"EAN": "9346379505268", "Name": "banan", "Category": "dessert" }, {
+"EAN": "5835792124085", "Name": "pizza", "Category": "middag" }, {
+"EAN": "2232878688398", "Name": "eple", "Category": "drikke" }, { "EAN":
+"7050733963566", "Name": "eple", "Category": "frukt" }, { "EAN":
+"8396901043437", "Name": "monster_energidrikk", "Category": "frokost" },
+{ "EAN": "9593524556024", "Name": "kebab", "Category": "dessert" }, {
+"EAN": "6571038497083", "Name": "eple", "Category": "middag" }, { "EAN":
+"3028738839882", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"9078914838965", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "3951160846884", "Name": "banan", "Category": "frokost" }, {
+"EAN": "5697241551691", "Name": "banan", "Category": "dessert" }, {
+"EAN": "9604985256366", "Name": "kebab", "Category": "middag" }, {
+"EAN": "2252842758461", "Name": "monster_energidrikk", "Category":
+"dessert" }, { "EAN": "6706008295910", "Name": "appelsin", "Category":
+"drikke" }, { "EAN": "5045589681586", "Name": "monster_energidrikk",
+"Category": "godteri" }, { "EAN": "7963494375664", "Name": "appelsin",
+"Category": "frokost" }, { "EAN": "5106474653653", "Name": "kebab",
+"Category": "frukt" }, { "EAN": "8869342129499", "Name": "eple",
+"Category": "frukt" }, { "EAN": "4444360987591", "Name": "eple",
+"Category": "godteri" }, { "EAN": "1219124566097", "Name": "banan",
+"Category": "godteri" }, { "EAN": "5656034331534", "Name": "pizza",
+"Category": "middag" }, { "EAN": "6798855519423", "Name": "kebab",
+"Category": "dessert" }, { "EAN": "6419010272553", "Name": "banan",
+"Category": "drikke" }, { "EAN": "1577521322225", "Name": "appelsin",
+"Category": "drikke" }, { "EAN": "7154994075983", "Name":
+"monster_energidrikk", "Category": "dessert" }, { "EAN":
+"7618227463879", "Name": "banan", "Category": "frokost" }, { "EAN":
+"3397188935050", "Name": "kebab", "Category": "middag" }, { "EAN":
+"4337219245084", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"1676588234987", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"4763841530896", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "3504933531811", "Name": "pizza", "Category": "dessert" }, {
+"EAN": "5269999981392", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"8585165880095", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "2467478875202", "Name": "banan", "Category": "frukt" }, {
+"EAN": "3595591473012", "Name": "eple", "Category": "middag" }, { "EAN":
+"5569129741360", "Name": "appelsin", "Category": "dessert" }, { "EAN":
+"8318584698861", "Name": "appelsin", "Category": "godteri" }, { "EAN":
+"8586892620361", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"4273477159880", "Name": "kebab", "Category": "frokost" }, { "EAN":
+"1704036117706", "Name": "eple", "Category": "middag" }, { "EAN":
+"8758898334748", "Name": "appelsin", "Category": "godteri" }, { "EAN":
+"1013318339778", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "7608311625347", "Name": "monster_energidrikk", "Category":
+"dessert" }, { "EAN": "6676350894305", "Name": "pizza", "Category":
+"frukt" }, { "EAN": "7855157003796", "Name": "kebab", "Category":
+"drikke" }, { "EAN": "6558508317916", "Name": "eple", "Category":
+"godteri" }, { "EAN": "2466994393587", "Name": "eple", "Category":
+"drikke" }, { "EAN": "8319671648916", "Name": "banan", "Category":
+"frukt" }, { "EAN": "5667602245242", "Name": "pizza", "Category":
+"middag" }, { "EAN": "3496281113193", "Name": "monster_energidrikk",
+"Category": "dessert" }, { "EAN": "2941687187994", "Name":
+"monster_energidrikk", "Category": "drikke" }, { "EAN": "3836975050793",
+"Name": "appelsin", "Category": "frukt" }, { "EAN": "7508648523910",
+"Name": "banan", "Category": "frokost" }, { "EAN": "6028905174247",
+"Name": "banan", "Category": "dessert" }, { "EAN": "7353044160889",
+"Name": "monster_energidrikk", "Category": "frukt" }, { "EAN":
+"5293483672362", "Name": "pizza", "Category": "dessert" }, { "EAN":
+"4775054474921", "Name": "banan", "Category": "middag" }, { "EAN":
+"1703280549292", "Name": "eple", "Category": "godteri" }, { "EAN":
+"5119127198039", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"4320005589092", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "6339691818636", "Name": "appelsin", "Category": "frokost" }, {
+"EAN": "1505767584332", "Name": "banan", "Category": "middag" }, {
+"EAN": "9752423366305", "Name": "pizza", "Category": "drikke" }, {
+"EAN": "3018802807250", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"3994478187867", "Name": "appelsin", "Category": "dessert" }, { "EAN":
+"7295603851330", "Name": "eple", "Category": "frukt" }, { "EAN":
+"3953301868222", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "7490445052058", "Name": "eple", "Category": "drikke" }, {
+"EAN": "9750761005085", "Name": "monster_energidrikk", "Category":
+"middag" }, { "EAN": "1130072484988", "Name": "monster_energidrikk",
+"Category": "dessert" }, { "EAN": "6533449702358", "Name": "banan",
+"Category": "dessert" }, { "EAN": "3901504346385", "Name": "pizza",
+"Category": "middag" }, { "EAN": "6909039562007", "Name": "banan",
+"Category": "middag" }, { "EAN": "3470162251856", "Name":
+"monster_energidrikk", "Category": "drikke" }, { "EAN": "6980844149093",
+"Name": "pizza", "Category": "godteri" }, { "EAN": "6123969043817",
+"Name": "pizza", "Category": "godteri" }, { "EAN": "9963542206113",
+"Name": "banan", "Category": "frukt" }, { "EAN": "2258509320610",
+"Name": "eple", "Category": "frukt" }, { "EAN": "1179650283399", "Name":
+"pizza", "Category": "godteri" }, { "EAN": "2413610802861", "Name":
+"kebab", "Category": "godteri" }, { "EAN": "8955723232989", "Name":
+"appelsin", "Category": "frokost" }, { "EAN": "5063363358621", "Name":
+"monster_energidrikk", "Category": "middag" }, { "EAN": "2325606241165",
+"Name": "appelsin", "Category": "drikke" }, { "EAN": "7656805420816",
+"Name": "pizza", "Category": "middag" }, { "EAN": "1162339046797",
+"Name": "banan", "Category": "godteri" }, { "EAN": "6775653172074",
+"Name": "banan", "Category": "godteri" }, { "EAN": "6347417377279",
+"Name": "kebab", "Category": "godteri" }, { "EAN": "7888337376115",
+"Name": "eple", "Category": "godteri" }, { "EAN": "4899750212336",
+"Name": "appelsin", "Category": "middag" }, { "EAN": "6192171489413",
+"Name": "eple", "Category": "frokost" }, { "EAN": "4373954721854",
+"Name": "monster_energidrikk", "Category": "dessert" }, { "EAN":
+"5175285556245", "Name": "appelsin", "Category": "frokost" }, { "EAN":
+"3720287308633", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "1317800454751", "Name": "banan", "Category": "frukt" }, {
+"EAN": "3319058920562", "Name": "banan", "Category": "drikke" }, {
+"EAN": "7510691453902", "Name": "appelsin", "Category": "middag" }, {
+"EAN": "1751161234426", "Name": "kebab", "Category": "dessert" }, {
+"EAN": "2767555866975", "Name": "banan", "Category": "godteri" }, {
+"EAN": "2922084501931", "Name": "appelsin", "Category": "frokost" }, {
+"EAN": "5371173560013", "Name": "pizza", "Category": "godteri" }, {
+"EAN": "7080111019632", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "3283409705346", "Name": "kebab", "Category": "godteri" }, {
+"EAN": "4139076338438", "Name": "banan", "Category": "middag" }, {
+"EAN": "1709398604875", "Name": "monster_energidrikk", "Category":
+"dessert" }, { "EAN": "8899445443461", "Name": "banan", "Category":
+"frukt" }, { "EAN": "1995906183199", "Name": "pizza", "Category":
+"godteri" }, { "EAN": "9324218339177", "Name": "kebab", "Category":
+"dessert" }, { "EAN": "1827098366566", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "4518458044082", "Name": "pizza", "Category":
+"dessert" }, { "EAN": "7565267850705", "Name": "pizza", "Category":
+"drikke" }, { "EAN": "2552702168190", "Name": "banan", "Category":
+"frokost" }, { "EAN": "7000281243330", "Name": "appelsin", "Category":
+"drikke" }, { "EAN": "5967525025111", "Name": "eple", "Category":
+"frokost" }, { "EAN": "3620162516740", "Name": "monster_energidrikk",
+"Category": "frokost" }, { "EAN": "6900725314892", "Name": "appelsin",
+"Category": "frokost" }, { "EAN": "6846787121988", "Name": "appelsin",
+"Category": "dessert" }, { "EAN": "4866534246912", "Name": "eple",
+"Category": "drikke" }, { "EAN": "4350542601669", "Name": "eple",
+"Category": "frokost" }, { "EAN": "1570470832397", "Name": "kebab",
+"Category": "drikke" }, { "EAN": "5783274444367", "Name": "banan",
+"Category": "dessert" }, { "EAN": "1978563503274", "Name": "kebab",
+"Category": "middag" }, { "EAN": "5492798432119", "Name": "kebab",
+"Category": "frokost" }, { "EAN": "2071902415240", "Name": "kebab",
+"Category": "middag" }, { "EAN": "3323595649542", "Name": "eple",
+"Category": "dessert" }, { "EAN": "7255497626122", "Name": "banan",
+"Category": "godteri" }, { "EAN": "1784868963700", "Name": "eple",
+"Category": "frukt" }, { "EAN": "1152868251128", "Name": "eple",
+"Category": "dessert" }, { "EAN": "1721468253484", "Name": "banan",
+"Category": "dessert" }, { "EAN": "6365636956916", "Name":
+"monster_energidrikk", "Category": "frukt" }, { "EAN": "6553957714996",
+"Name": "banan", "Category": "frokost" }, { "EAN": "2499313907243",
+"Name": "appelsin", "Category": "frokost" }, { "EAN": "9069520005615",
+"Name": "monster_energidrikk", "Category": "drikke" }, { "EAN":
+"6167326744503", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"1121358853555", "Name": "appelsin", "Category": "drikke" }, { "EAN":
+"8280404244897", "Name": "kebab", "Category": "drikke" }, { "EAN":
+"6802549667594", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "4743539673873", "Name": "monster_energidrikk", "Category":
+"frokost" }, { "EAN": "9988485691859", "Name": "pizza", "Category":
+"drikke" }, { "EAN": "7538618416986", "Name": "banan", "Category":
+"drikke" }, { "EAN": "8642040669159", "Name": "banan", "Category":
+"frokost" }, { "EAN": "3181379817893", "Name": "pizza", "Category":
+"dessert" }, { "EAN": "7280097767154", "Name": "pizza", "Category":
+"frukt" }, { "EAN": "8637936905467", "Name": "banan", "Category":
+"godteri" }, { "EAN": "3463229796151", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "7701029927542", "Name": "kebab", "Category":
+"drikke" }, { "EAN": "4575955450337", "Name": "kebab", "Category":
+"frokost" }, { "EAN": "3618883068772", "Name": "monster_energidrikk",
+"Category": "godteri" }, { "EAN": "4112809058333", "Name": "appelsin",
+"Category": "drikke" }, { "EAN": "9998599705160", "Name": "eple",
+"Category": "frokost" }, { "EAN": "4008301929158", "Name":
+"monster_energidrikk", "Category": "drikke" }, { "EAN": "8051735727346",
+"Name": "pizza", "Category": "middag" }, { "EAN": "8387277859704",
+"Name": "monster_energidrikk", "Category": "drikke" }, { "EAN":
+"1469516856436", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "2857119653769", "Name": "eple", "Category": "drikke" }, {
+"EAN": "7404800885401", "Name": "eple", "Category": "frokost" }, {
+"EAN": "5101447490422", "Name": "eple", "Category": "dessert" }, {
+"EAN": "6360785434537", "Name": "eple", "Category": "frukt" }, { "EAN":
+"3272608079529", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"5333259347791", "Name": "appelsin", "Category": "frokost" }, { "EAN":
+"9784075497703", "Name": "pizza", "Category": "frukt" }, { "EAN":
+"1076636045300", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "2621928159175", "Name": "pizza", "Category": "dessert" }, {
+"EAN": "2781806429604", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "6644747322710", "Name": "monster_energidrikk", "Category":
+"dessert" }, { "EAN": "5312024025272", "Name": "pizza", "Category":
+"frokost" }, { "EAN": "1757881620171", "Name": "monster_energidrikk",
+"Category": "frukt" }, { "EAN": "8160614413318", "Name": "pizza",
+"Category": "frokost" }, { "EAN": "8650040265549", "Name": "appelsin",
+"Category": "godteri" }, { "EAN": "4850346549773", "Name": "eple",
+"Category": "frukt" }, { "EAN": "2436234314466", "Name": "kebab",
+"Category": "middag" }, { "EAN": "1743927634103", "Name": "eple",
+"Category": "middag" }, { "EAN": "3323679085131", "Name":
+"monster_energidrikk", "Category": "drikke" }, { "EAN": "8850720961185",
+"Name": "kebab", "Category": "frokost" }, { "EAN": "9930083021432",
+"Name": "pizza", "Category": "middag" }, { "EAN": "8421773559462",
+"Name": "eple", "Category": "frokost" }, { "EAN": "5324713277882",
+"Name": "appelsin", "Category": "godteri" }, { "EAN": "3713716421951",
+"Name": "monster_energidrikk", "Category": "frokost" }, { "EAN":
+"7676439674556", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "4691338233825", "Name": "pizza", "Category": "middag" }, {
+"EAN": "1990929026800", "Name": "appelsin", "Category": "dessert" }, {
+"EAN": "1560029197891", "Name": "appelsin", "Category": "middag" }, {
+"EAN": "3481129835358", "Name": "monster_energidrikk", "Category":
+"drikke" }, { "EAN": "3604958563856", "Name": "pizza", "Category":
+"middag" }, { "EAN": "4520588816626", "Name": "eple", "Category":
+"dessert" }, { "EAN": "1228406272666", "Name": "monster_energidrikk",
+"Category": "dessert" }, { "EAN": "1404442423049", "Name": "pizza",
+"Category": "middag" }, { "EAN": "8672895443410", "Name": "appelsin",
+"Category": "drikke" }, { "EAN": "2010869841139", "Name": "pizza",
+"Category": "frukt" }, { "EAN": "3623797218981", "Name": "appelsin",
+"Category": "frukt" }, { "EAN": "2754802433390", "Name": "eple",
+"Category": "dessert" }, { "EAN": "6833699937625", "Name": "banan",
+"Category": "dessert" }, { "EAN": "1039092545182", "Name": "pizza",
+"Category": "middag" }, { "EAN": "9138942955680", "Name": "eple",
+"Category": "dessert" }, { "EAN": "2658504310213", "Name":
+"monster_energidrikk", "Category": "frokost" }, { "EAN":
+"7625826516747", "Name": "kebab", "Category": "dessert" }, { "EAN":
+"5402036106692", "Name": "kebab", "Category": "dessert" }, { "EAN":
+"8187618396870", "Name": "appelsin", "Category": "frokost" }, { "EAN":
+"4695161849000", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"4339571616730", "Name": "pizza", "Category": "frokost" }, { "EAN":
+"5364266120524", "Name": "banan", "Category": "middag" }, { "EAN":
+"8023866347926", "Name": "banan", "Category": "frukt" }, { "EAN":
+"4289800563136", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "6951080987582", "Name": "pizza", "Category": "drikke" }, {
+"EAN": "2552741711547", "Name": "eple", "Category": "godteri" }, {
+"EAN": "1062770259885", "Name": "kebab", "Category": "drikke" }, {
+"EAN": "7364437528371", "Name": "eple", "Category": "godteri" }, {
+"EAN": "1616314219803", "Name": "kebab", "Category": "godteri" }, {
+"EAN": "6635918072352", "Name": "monster_energidrikk", "Category":
+"middag" }, { "EAN": "1617837873239", "Name": "banan", "Category":
+"godteri" }, { "EAN": "1404705092577", "Name": "kebab", "Category":
+"middag" }, { "EAN": "4285078681569", "Name": "appelsin", "Category":
+"godteri" }, { "EAN": "8606906521384", "Name": "banan", "Category":
+"middag" }, { "EAN": "7454387587027", "Name": "pizza", "Category":
+"drikke" }, { "EAN": "6987719095831", "Name": "banan", "Category":
+"frokost" }, { "EAN": "2977135646326", "Name": "banan", "Category":
+"middag" }, { "EAN": "3497832320188", "Name": "eple", "Category":
+"middag" }, { "EAN": "1638281312804", "Name": "banan", "Category":
+"middag" }, { "EAN": "3844000797258", "Name": "kebab", "Category":
+"frokost" }, { "EAN": "6170405275114", "Name": "pizza", "Category":
+"middag" }, { "EAN": "6665609251670", "Name": "banan", "Category":
+"drikke" }, { "EAN": "1349767420595", "Name": "pizza", "Category":
+"dessert" }, { "EAN": "7726474232864", "Name": "monster_energidrikk",
+"Category": "frokost" }, { "EAN": "8449756531422", "Name": "banan",
+"Category": "frukt" }, { "EAN": "4735731438459", "Name": "kebab",
+"Category": "frukt" }, { "EAN": "2805124205883", "Name": "kebab",
+"Category": "middag" }, { "EAN": "1872252552849", "Name":
+"monster_energidrikk", "Category": "dessert" }, { "EAN":
+"2211634508523", "Name": "appelsin", "Category": "godteri" }, { "EAN":
+"7727780016558", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"9471885292616", "Name": "kebab", "Category": "dessert" }, { "EAN":
+"8778096588105", "Name": "banan", "Category": "dessert" }, { "EAN":
+"3620318603461", "Name": "kebab", "Category": "middag" }, { "EAN":
+"8865109106508", "Name": "pizza", "Category": "drikke" }, { "EAN":
+"6689674384019", "Name": "banan", "Category": "frokost" }, { "EAN":
+"7943175258499", "Name": "eple", "Category": "frokost" }, { "EAN":
+"7724810595410", "Name": "banan", "Category": "middag" }, { "EAN":
+"1663867947794", "Name": "pizza", "Category": "dessert" }, { "EAN":
+"1924773769047", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"7780153104072", "Name": "kebab", "Category": "drikke" }, { "EAN":
+"1214947003849", "Name": "kebab", "Category": "middag" }, { "EAN":
+"5925395156481", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "4565972087078", "Name": "pizza", "Category": "frukt" }, {
+"EAN": "8920662484025", "Name": "kebab", "Category": "frokost" }, {
+"EAN": "4368693500708", "Name": "kebab", "Category": "middag" }, {
+"EAN": "9784226461310", "Name": "appelsin", "Category": "frukt" }, {
+"EAN": "7846688376496", "Name": "banan", "Category": "middag" }, {
+"EAN": "3805899285962", "Name": "eple", "Category": "frukt" }, { "EAN":
+"4663810117163", "Name": "kebab", "Category": "dessert" }, { "EAN":
+"4707161164800", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "2016330841195", "Name": "eple", "Category": "godteri" }, {
+"EAN": "5678237702363", "Name": "pizza", "Category": "frokost" }, {
+"EAN": "4572047448913", "Name": "appelsin", "Category": "middag" }, {
+"EAN": "3767209269014", "Name": "eple", "Category": "godteri" }, {
+"EAN": "5468218650647", "Name": "appelsin", "Category": "frokost" }, {
+"EAN": "2936439572127", "Name": "kebab", "Category": "dessert" }, {
+"EAN": "4113848145005", "Name": "pizza", "Category": "godteri" }, {
+"EAN": "6621938435347", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"2856959880417", "Name": "appelsin", "Category": "dessert" }, { "EAN":
+"3113445044586", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "9581907387395", "Name": "pizza", "Category": "frukt" }, {
+"EAN": "3417307822134", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"8929711786389", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"7108122437608", "Name": "pizza", "Category": "frokost" }, { "EAN":
+"8891620829466", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"5110381993243", "Name": "eple", "Category": "godteri" }, { "EAN":
+"8325709106065", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "7977833411874", "Name": "pizza", "Category": "godteri" }, {
+"EAN": "7686444468250", "Name": "eple", "Category": "middag" }, { "EAN":
+"4065354383199", "Name": "monster_energidrikk", "Category": "frukt" }, {
+"EAN": "5642287364732", "Name": "monster_energidrikk", "Category":
+"dessert" }, { "EAN": "8211538967010", "Name": "appelsin", "Category":
+"frukt" }, { "EAN": "7513192757513", "Name": "kebab", "Category":
+"middag" }, { "EAN": "4886172525615", "Name": "monster_energidrikk",
+"Category": "frokost" }, { "EAN": "2077128742594", "Name": "appelsin",
+"Category": "dessert" }, { "EAN": "4593810331787", "Name": "eple",
+"Category": "godteri" }, { "EAN": "1384191042635", "Name":
+"monster_energidrikk", "Category": "drikke" }, { "EAN": "6798550478699",
+"Name": "kebab", "Category": "frukt" }, { "EAN": "6444804472931",
+"Name": "eple", "Category": "frokost" }, { "EAN": "9317489320390",
+"Name": "pizza", "Category": "godteri" }, { "EAN": "5191264541317",
+"Name": "pizza", "Category": "frokost" }, { "EAN": "5330010004420",
+"Name": "appelsin", "Category": "godteri" }, { "EAN": "2807766150419",
+"Name": "banan", "Category": "dessert" }, { "EAN": "5904495904228",
+"Name": "banan", "Category": "frukt" }, { "EAN": "3401337393521",
+"Name": "pizza", "Category": "godteri" }, { "EAN": "3044457350514",
+"Name": "monster_energidrikk", "Category": "godteri" }, { "EAN":
+"9153835784024", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"1521276596521", "Name": "banan", "Category": "frukt" }, { "EAN":
+"3294484689470", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "2669855464873", "Name": "pizza", "Category": "middag" }, {
+"EAN": "3952078534384", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "2026302239132", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "4635525665541", "Name": "kebab", "Category": "frokost" }, {
+"EAN": "3504415386739", "Name": "kebab", "Category": "frokost" }, {
+"EAN": "4335110051835", "Name": "banan", "Category": "dessert" }, {
+"EAN": "5857872508258", "Name": "pizza", "Category": "drikke" }, {
+"EAN": "3688617102932", "Name": "banan", "Category": "godteri" }, {
+"EAN": "4323844081926", "Name": "kebab", "Category": "middag" }, {
+"EAN": "8179989773950", "Name": "monster_energidrikk", "Category":
+"frukt" }, { "EAN": "6470044690419", "Name": "pizza", "Category":
+"dessert" }, { "EAN": "3637443714791", "Name": "eple", "Category":
+"middag" }, { "EAN": "8942480341360", "Name": "eple", "Category":
+"frokost" }, { "EAN": "8926060395111", "Name": "monster_energidrikk",
+"Category": "frokost" }, { "EAN": "7900617312260", "Name": "banan",
+"Category": "frukt" }, { "EAN": "6576618503060", "Name": "banan",
+"Category": "dessert" }, { "EAN": "4170576453877", "Name": "pizza",
+"Category": "drikke" }, { "EAN": "9059796744268", "Name": "eple",
+"Category": "middag" }, { "EAN": "9064164885394", "Name": "appelsin",
+"Category": "dessert" }, { "EAN": "9472161282020", "Name": "kebab",
+"Category": "middag" }, { "EAN": "7345946255337", "Name": "banan",
+"Category": "drikke" }, { "EAN": "7027281387980", "Name": "kebab",
+"Category": "godteri" }, { "EAN": "1854670123341", "Name": "eple",
+"Category": "drikke" }, { "EAN": "2036482342992", "Name": "banan",
+"Category": "dessert" }, { "EAN": "8404840431161", "Name":
+"monster_energidrikk", "Category": "frokost" }, { "EAN":
+"3483592380344", "Name": "eple", "Category": "drikke" }, { "EAN":
+"9750965190899", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "8436942076147", "Name": "appelsin", "Category": "godteri" }, {
+"EAN": "1902929489477", "Name": "banan", "Category": "drikke" }, {
+"EAN": "7494170793180", "Name": "eple", "Category": "godteri" }, {
+"EAN": "9208673809783", "Name": "pizza", "Category": "frokost" }, {
+"EAN": "1526749672861", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "5383378255713", "Name": "kebab", "Category": "godteri" }, {
+"EAN": "2348292004259", "Name": "eple", "Category": "drikke" }, { "EAN":
+"9540950238793", "Name": "eple", "Category": "dessert" }, { "EAN":
+"1333840882274", "Name": "eple", "Category": "dessert" }, { "EAN":
+"5287815195157", "Name": "banan", "Category": "frokost" }, { "EAN":
+"2644430594152", "Name": "eple", "Category": "drikke" }, { "EAN":
+"8164853763876", "Name": "banan", "Category": "middag" }, { "EAN":
+"5096871208005", "Name": "eple", "Category": "godteri" }, { "EAN":
+"9000997252264", "Name": "banan", "Category": "drikke" }, { "EAN":
+"2524719797384", "Name": "pizza", "Category": "frukt" }, { "EAN":
+"7002251936968", "Name": "appelsin", "Category": "drikke" }, { "EAN":
+"8670223943182", "Name": "banan", "Category": "dessert" }, { "EAN":
+"6389508258013", "Name": "appelsin", "Category": "frokost" }, { "EAN":
+"2055844581948", "Name": "appelsin", "Category": "godteri" }, { "EAN":
+"7569768552788", "Name": "eple", "Category": "frukt" }, { "EAN":
+"1914309741775", "Name": "pizza", "Category": "dessert" }, { "EAN":
+"5406894395177", "Name": "monster_energidrikk", "Category": "middag" },
+{ "EAN": "9668678803888", "Name": "banan", "Category": "frukt" }, {
+"EAN": "3288664254010", "Name": "eple", "Category": "dessert" }, {
+"EAN": "5917400555375", "Name": "banan", "Category": "dessert" }, {
+"EAN": "6362909314444", "Name": "appelsin", "Category": "frokost" }, {
+"EAN": "6276572952265", "Name": "kebab", "Category": "dessert" }, {
+"EAN": "8037768555037", "Name": "monster_energidrikk", "Category":
+"dessert" }, { "EAN": "3088045035441", "Name": "monster_energidrikk",
+"Category": "middag" }, { "EAN": "3236683327810", "Name": "pizza",
+"Category": "drikke" }, { "EAN": "5396087791517", "Name": "pizza",
+"Category": "frokost" }, { "EAN": "2710110388188", "Name": "eple",
+"Category": "middag" }, { "EAN": "1249512893360", "Name":
+"monster_energidrikk", "Category": "godteri" }, { "EAN":
+"5414590315776", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "6274934624387", "Name": "eple", "Category": "middag" }, {
+"EAN": "5441796922656", "Name": "eple", "Category": "dessert" }, {
+"EAN": "5338897714132", "Name": "pizza", "Category": "frokost" }, {
+"EAN": "2560311853911", "Name": "eple", "Category": "dessert" }, {
+"EAN": "5361812779730", "Name": "banan", "Category": "frokost" }, {
+"EAN": "3224742350429", "Name": "eple", "Category": "frokost" }, {
+"EAN": "6358372306986", "Name": "eple", "Category": "middag" }, { "EAN":
+"5569032471275", "Name": "eple", "Category": "dessert" }, { "EAN":
+"9362677637514", "Name": "banan", "Category": "drikke" }, { "EAN":
+"5342684009769", "Name": "banan", "Category": "middag" }, { "EAN":
+"1512863237200", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "7492857729872", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "9796690456359", "Name": "pizza", "Category": "godteri" }, {
+"EAN": "2361929354587", "Name": "eple", "Category": "frokost" }, {
+"EAN": "9631533300866", "Name": "appelsin", "Category": "frokost" }, {
+"EAN": "6452814550839", "Name": "banan", "Category": "middag" }, {
+"EAN": "3217498025702", "Name": "eple", "Category": "godteri" }, {
+"EAN": "1925647939779", "Name": "appelsin", "Category": "middag" }, {
+"EAN": "9407273125270", "Name": "pizza", "Category": "drikke" }, {
+"EAN": "2543233066610", "Name": "eple", "Category": "drikke" }, { "EAN":
+"7779486646868", "Name": "monster_energidrikk", "Category": "frokost" },
+{ "EAN": "1864979063064", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "8623665025057", "Name": "kebab", "Category": "dessert" }, {
+"EAN": "6589726308026", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"9534492117562", "Name": "kebab", "Category": "dessert" }, { "EAN":
+"8075348384360", "Name": "banan", "Category": "frokost" }, { "EAN":
+"6158355717339", "Name": "appelsin", "Category": "frokost" }, { "EAN":
+"5187705689130", "Name": "appelsin", "Category": "middag" }, { "EAN":
+"9059447046433", "Name": "pizza", "Category": "dessert" }, { "EAN":
+"9136305575371", "Name": "kebab", "Category": "frokost" }, { "EAN":
+"9830161777846", "Name": "banan", "Category": "frokost" }, { "EAN":
+"7974161094894", "Name": "monster_energidrikk", "Category": "middag" },
+{ "EAN": "9800628953647", "Name": "appelsin", "Category": "frokost" }, {
+"EAN": "9852479244018", "Name": "eple", "Category": "frokost" }, {
+"EAN": "3595752641761", "Name": "appelsin", "Category": "dessert" }, {
+"EAN": "9939464871190", "Name": "appelsin", "Category": "frukt" }, {
+"EAN": "8987345236596", "Name": "kebab", "Category": "dessert" }, {
+"EAN": "2665806157892", "Name": "kebab", "Category": "drikke" }, {
+"EAN": "2709417951126", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "4411584576162", "Name": "monster_energidrikk", "Category":
+"godteri" }, { "EAN": "2702279751928", "Name": "kebab", "Category":
+"middag" }, { "EAN": "2253722591619", "Name": "monster_energidrikk",
+"Category": "drikke" }, { "EAN": "7102726536745", "Name": "kebab",
+"Category": "drikke" }, { "EAN": "6734808606220", "Name":
+"monster_energidrikk", "Category": "frokost" }, { "EAN":
+"4317138914289", "Name": "pizza", "Category": "drikke" }, { "EAN":
+"7196535701564", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"8985795858516", "Name": "pizza", "Category": "dessert" }, { "EAN":
+"1282847257919", "Name": "banan", "Category": "middag" }, { "EAN":
+"8640829556432", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"1704694537505", "Name": "kebab", "Category": "drikke" }, { "EAN":
+"4926267998852", "Name": "pizza", "Category": "middag" }, { "EAN":
+"5015144477971", "Name": "eple", "Category": "dessert" }, { "EAN":
+"1000352303352", "Name": "kebab", "Category": "dessert" }, { "EAN":
+"6918502165122", "Name": "banan", "Category": "dessert" }, { "EAN":
+"1266141035998", "Name": "appelsin", "Category": "dessert" }, { "EAN":
+"6317236841695", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "1153296060190", "Name": "appelsin", "Category": "dessert" }, {
+"EAN": "4904104714217", "Name": "kebab", "Category": "drikke" }, {
+"EAN": "3280695267750", "Name": "monster_energidrikk", "Category":
+"middag" }, { "EAN": "9809879403869", "Name": "appelsin", "Category":
+"drikke" }, { "EAN": "6942409390296", "Name": "eple", "Category":
+"godteri" }, { "EAN": "5335062855314", "Name": "banan", "Category":
+"middag" }, { "EAN": "8372153758663", "Name": "appelsin", "Category":
+"drikke" }, { "EAN": "8024089958970", "Name": "pizza", "Category":
+"middag" }, { "EAN": "6164774793464", "Name": "kebab", "Category":
+"dessert" }, { "EAN": "2538413412421", "Name": "eple", "Category":
+"middag" }, { "EAN": "6615037867304", "Name": "appelsin", "Category":
+"frokost" }, { "EAN": "5364709879301", "Name": "kebab", "Category":
+"godteri" }, { "EAN": "3523823327460", "Name": "kebab", "Category":
+"godteri" }, { "EAN": "3392773906010", "Name": "pizza", "Category":
+"dessert" }, { "EAN": "6659655231820", "Name": "monster_energidrikk",
+"Category": "godteri" }, { "EAN": "3090803553922", "Name":
+"monster_energidrikk", "Category": "frokost" }, { "EAN":
+"6487546240232", "Name": "appelsin", "Category": "middag" }, { "EAN":
+"9177854044959", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "6595623969662", "Name": "eple", "Category": "dessert" }, {
+"EAN": "1175554232981", "Name": "kebab", "Category": "drikke" }, {
+"EAN": "8588063497502", "Name": "banan", "Category": "frukt" }, { "EAN":
+"3098379166714", "Name": "banan", "Category": "frokost" }, { "EAN":
+"4892134762453", "Name": "eple", "Category": "dessert" }, { "EAN":
+"9416265478757", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"8534080168729", "Name": "monster_energidrikk", "Category": "middag" },
+{ "EAN": "8669495772909", "Name": "banan", "Category": "middag" }, {
+"EAN": "2196945223712", "Name": "kebab", "Category": "dessert" }, {
+"EAN": "4099732738370", "Name": "kebab", "Category": "frokost" }, {
+"EAN": "5718952990397", "Name": "eple", "Category": "drikke" }, { "EAN":
+"8934596723674", "Name": "eple", "Category": "godteri" }, { "EAN":
+"4381349058544", "Name": "eple", "Category": "frukt" }, { "EAN":
+"8360970511499", "Name": "monster_energidrikk", "Category": "middag" },
+{ "EAN": "2770839566636", "Name": "monster_energidrikk", "Category":
+"frokost" }, { "EAN": "2893937541698", "Name": "monster_energidrikk",
+"Category": "frokost" }, { "EAN": "1896877994016", "Name": "banan",
+"Category": "godteri" }, { "EAN": "7217750412789", "Name": "eple",
+"Category": "dessert" }, { "EAN": "2739513066862", "Name": "eple",
+"Category": "drikke" }, { "EAN": "9480873414914", "Name": "eple",
+"Category": "godteri" }, { "EAN": "1405024756587", "Name": "banan",
+"Category": "drikke" }, { "EAN": "1536991772073", "Name": "appelsin",
+"Category": "godteri" }, { "EAN": "5305358726646", "Name": "banan",
+"Category": "frokost" }, { "EAN": "8185968455413", "Name": "eple",
+"Category": "drikke" }, { "EAN": "5619023693777", "Name": "appelsin",
+"Category": "middag" }, { "EAN": "7370254964954", "Name": "kebab",
+"Category": "drikke" }, { "EAN": "8341804099366", "Name": "kebab",
+"Category": "frokost" }, { "EAN": "2328173447874", "Name": "eple",
+"Category": "frukt" }, { "EAN": "7546989953163", "Name": "kebab",
+"Category": "drikke" }, { "EAN": "7393459664982", "Name": "eple",
+"Category": "dessert" }, { "EAN": "9262819663734", "Name": "appelsin",
+"Category": "dessert" }, { "EAN": "8425529784995", "Name": "eple",
+"Category": "drikke" }, { "EAN": "1344006100741", "Name":
+"monster_energidrikk", "Category": "dessert" }, { "EAN":
+"8471085448607", "Name": "monster_energidrikk", "Category": "frukt" }, {
+"EAN": "9709026181385", "Name": "eple", "Category": "middag" }, { "EAN":
+"5397347026395", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "3264692636090", "Name": "kebab", "Category": "drikke" }, {
+"EAN": "3509040969586", "Name": "kebab", "Category": "frokost" }, {
+"EAN": "6117355128910", "Name": "pizza", "Category": "frukt" }, { "EAN":
+"9771528430480", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"6372218912660", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "2697326428152", "Name": "eple", "Category": "dessert" }, {
+"EAN": "6715343059941", "Name": "appelsin", "Category": "godteri" }, {
+"EAN": "3677724599120", "Name": "banan", "Category": "frukt" }, { "EAN":
+"3284249399793", "Name": "banan", "Category": "middag" }, { "EAN":
+"3134018849167", "Name": "banan", "Category": "godteri" }, { "EAN":
+"7729345840034", "Name": "monster_energidrikk", "Category": "frokost" },
+{ "EAN": "3231982404924", "Name": "kebab", "Category": "godteri" }, {
+"EAN": "6026734888224", "Name": "eple", "Category": "frukt" }, { "EAN":
+"7250558088251", "Name": "eple", "Category": "godteri" }, { "EAN":
+"6793084600338", "Name": "eple", "Category": "frokost" }, { "EAN":
+"3628773740826", "Name": "banan", "Category": "middag" }, { "EAN":
+"8690436340723", "Name": "kebab", "Category": "drikke" }, { "EAN":
+"4574266317162", "Name": "banan", "Category": "dessert" }, { "EAN":
+"8590117438881", "Name": "banan", "Category": "dessert" }, { "EAN":
+"1881186022048", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "6293695961955", "Name": "pizza", "Category": "godteri" }, {
+"EAN": "4582290820013", "Name": "pizza", "Category": "middag" }, {
+"EAN": "5514102718836", "Name": "banan", "Category": "drikke" }, {
+"EAN": "1429905693629", "Name": "kebab", "Category": "godteri" }, {
+"EAN": "7595983218643", "Name": "pizza", "Category": "drikke" }, {
+"EAN": "1040544429383", "Name": "appelsin", "Category": "frukt" }, {
+"EAN": "3120278279869", "Name": "eple", "Category": "frokost" }, {
+"EAN": "6013797760269", "Name": "kebab", "Category": "frokost" }, {
+"EAN": "6407883631459", "Name": "eple", "Category": "godteri" }, {
+"EAN": "8943724323376", "Name": "pizza", "Category": "godteri" }, {
+"EAN": "2440123356565", "Name": "pizza", "Category": "frokost" }, {
+"EAN": "5672778056764", "Name": "kebab", "Category": "dessert" }, {
+"EAN": "1970052144204", "Name": "eple", "Category": "godteri" }, {
+"EAN": "3420673333604", "Name": "banan", "Category": "frokost" }, {
+"EAN": "8163319407254", "Name": "pizza", "Category": "dessert" }, {
+"EAN": "1885311823731", "Name": "monster_energidrikk", "Category":
+"dessert" }, { "EAN": "8812840900842", "Name": "pizza", "Category":
+"middag" }, { "EAN": "1848379154318", "Name": "kebab", "Category":
+"godteri" }, { "EAN": "7709760190591", "Name": "pizza", "Category":
+"godteri" }, { "EAN": "5086682689454", "Name": "pizza", "Category":
+"middag" }, { "EAN": "5934567417032", "Name": "kebab", "Category":
+"dessert" }, { "EAN": "7190299780643", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "6195543848438", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "4074058158093", "Name": "kebab", "Category":
+"godteri" }, { "EAN": "6235425146069", "Name": "kebab", "Category":
+"middag" }, { "EAN": "6597245266939", "Name": "banan", "Category":
+"frukt" }, { "EAN": "4351176286821", "Name": "eple", "Category":
+"frokost" }, { "EAN": "5806553069235", "Name": "appelsin", "Category":
+"frokost" }, { "EAN": "4204483948027", "Name": "pizza", "Category":
+"frukt" }, { "EAN": "6465994897718", "Name": "kebab", "Category":
+"godteri" }, { "EAN": "9498017779249", "Name": "eple", "Category":
+"drikke" }, { "EAN": "8618473627194", "Name": "appelsin", "Category":
+"godteri" }, { "EAN": "3757580181801", "Name": "kebab", "Category":
+"godteri" }, { "EAN": "4684888374889", "Name": "banan", "Category":
+"godteri" }, { "EAN": "2352071716857", "Name": "kebab", "Category":
+"frukt" }, { "EAN": "6836947484116", "Name": "kebab", "Category":
+"drikke" }, { "EAN": "8335986217065", "Name": "kebab", "Category":
+"godteri" }, { "EAN": "3516262359629", "Name": "pizza", "Category":
+"frukt" }, { "EAN": "9301932926748", "Name": "appelsin", "Category":
+"frokost" }, { "EAN": "2267684334223", "Name": "monster_energidrikk",
+"Category": "drikke" }, { "EAN": "5817068660893", "Name":
+"monster_energidrikk", "Category": "middag" }, { "EAN": "8550364948461",
+"Name": "monster_energidrikk", "Category": "middag" }, { "EAN":
+"7300980581625", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"9907851840440", "Name": "pizza", "Category": "frokost" }, { "EAN":
+"7433597033238", "Name": "appelsin", "Category": "middag" }, { "EAN":
+"6191346429465", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "7037128107704", "Name": "pizza", "Category": "frokost" }, {
+"EAN": "3718275237914", "Name": "kebab", "Category": "dessert" }, {
+"EAN": "8932307186427", "Name": "monster_energidrikk", "Category":
+"frukt" }, { "EAN": "7118335808339", "Name": "banan", "Category":
+"middag" }, { "EAN": "7983274263852", "Name": "banan", "Category":
+"middag" }, { "EAN": "3431106618656", "Name": "kebab", "Category":
+"godteri" }, { "EAN": "2164917299196", "Name": "pizza", "Category":
+"middag" }, { "EAN": "9994379914990", "Name": "pizza", "Category":
+"middag" }, { "EAN": "3148014497372", "Name": "pizza", "Category":
+"middag" }, { "EAN": "1418046156878", "Name": "monster_energidrikk",
+"Category": "middag" }, { "EAN": "2649782954180", "Name": "appelsin",
+"Category": "drikke" }, { "EAN": "4532823193289", "Name": "kebab",
+"Category": "drikke" }, { "EAN": "8346767579175", "Name": "eple",
+"Category": "frokost" }, { "EAN": "3687926557186", "Name": "banan",
+"Category": "middag" }, { "EAN": "7945881241575", "Name": "eple",
+"Category": "frokost" }, { "EAN": "3348941918725", "Name": "banan",
+"Category": "middag" }, { "EAN": "9194495895278", "Name": "appelsin",
+"Category": "drikke" }, { "EAN": "3010295493831", "Name": "appelsin",
+"Category": "drikke" }, { "EAN": "1529069849692", "Name": "kebab",
+"Category": "dessert" }, { "EAN": "5603653157331", "Name": "appelsin",
+"Category": "middag" }, { "EAN": "5885564870732", "Name": "kebab",
+"Category": "drikke" }, { "EAN": "8036763176481", "Name": "banan",
+"Category": "godteri" }, { "EAN": "7484600073884", "Name": "kebab",
+"Category": "godteri" }, { "EAN": "2928932528801", "Name": "pizza",
+"Category": "drikke" }, { "EAN": "6342486095695", "Name": "pizza",
+"Category": "dessert" }, { "EAN": "9469859301453", "Name":
+"monster_energidrikk", "Category": "godteri" }, { "EAN":
+"3387500526846", "Name": "banan", "Category": "dessert" }, { "EAN":
+"3233136155332", "Name": "eple", "Category": "godteri" }, { "EAN":
+"7289895520984", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"2934329491154", "Name": "banan", "Category": "middag" }, { "EAN":
+"1311576109407", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "1503354457476", "Name": "kebab", "Category": "godteri" }, {
+"EAN": "1553545209747", "Name": "pizza", "Category": "middag" }, {
+"EAN": "9160014465014", "Name": "eple", "Category": "drikke" }, { "EAN":
+"3238142057654", "Name": "appelsin", "Category": "drikke" }, { "EAN":
+"1853822720481", "Name": "kebab", "Category": "frokost" }, { "EAN":
+"6203212397562", "Name": "kebab", "Category": "middag" }, { "EAN":
+"9377511854063", "Name": "banan", "Category": "middag" }, { "EAN":
+"8363631895983", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "8980512692340", "Name": "monster_energidrikk", "Category":
+"middag" }, { "EAN": "7205039952375", "Name": "kebab", "Category":
+"dessert" }, { "EAN": "7833977909459", "Name": "pizza", "Category":
+"godteri" }, { "EAN": "5340550424153", "Name": "appelsin", "Category":
+"drikke" }, { "EAN": "6435377798644", "Name": "eple", "Category":
+"godteri" }, { "EAN": "9127994322776", "Name": "pizza", "Category":
+"frokost" }, { "EAN": "6035927661300", "Name": "pizza", "Category":
+"godteri" }, { "EAN": "8716796894123", "Name": "appelsin", "Category":
+"middag" }, { "EAN": "5710027834496", "Name": "eple", "Category":
+"drikke" }, { "EAN": "7037992860952", "Name": "appelsin", "Category":
+"godteri" }, { "EAN": "1237346280351", "Name": "kebab", "Category":
+"drikke" }, { "EAN": "1548956364573", "Name": "kebab", "Category":
+"drikke" }, { "EAN": "3398385092100", "Name": "pizza", "Category":
+"frokost" }, { "EAN": "4472959011676", "Name": "kebab", "Category":
+"middag" }, { "EAN": "2552952380216", "Name": "kebab", "Category":
+"dessert" }, { "EAN": "4014348679390", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "7250976140820", "Name": "monster_energidrikk",
+"Category": "middag" }, { "EAN": "9714288886711", "Name":
+"monster_energidrikk", "Category": "drikke" }, { "EAN": "3505322683899",
+"Name": "banan", "Category": "dessert" }, { "EAN": "4338433340739",
+"Name": "eple", "Category": "frokost" }, { "EAN": "1902697113386",
+"Name": "kebab", "Category": "drikke" }, { "EAN": "2187516665796",
+"Name": "pizza", "Category": "frokost" }, { "EAN": "8579246015235",
+"Name": "banan", "Category": "dessert" }, { "EAN": "5229188812047",
+"Name": "monster_energidrikk", "Category": "drikke" }, { "EAN":
+"9703060503560", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "2489040536568", "Name": "pizza", "Category": "godteri" }, {
+"EAN": "1572308424894", "Name": "appelsin", "Category": "middag" }, {
+"EAN": "5768011098796", "Name": "banan", "Category": "godteri" }, {
+"EAN": "3630174533760", "Name": "monster_energidrikk", "Category":
+"godteri" }, { "EAN": "2776219410057", "Name": "pizza", "Category":
+"frokost" }, { "EAN": "2155780836231", "Name": "kebab", "Category":
+"frokost" }, { "EAN": "2737464431604", "Name": "banan", "Category":
+"middag" }, { "EAN": "8831491229420", "Name": "monster_energidrikk",
+"Category": "frokost" }, { "EAN": "9684495391537", "Name": "banan",
+"Category": "frokost" }, { "EAN": "9573118192865", "Name": "kebab",
+"Category": "drikke" }, { "EAN": "4411574788673", "Name": "eple",
+"Category": "middag" }, { "EAN": "8841371116884", "Name": "appelsin",
+"Category": "frokost" }, { "EAN": "8066144107928", "Name": "eple",
+"Category": "godteri" }, { "EAN": "8234519613902", "Name": "eple",
+"Category": "frukt" }, { "EAN": "9868541182391", "Name": "appelsin",
+"Category": "middag" }, { "EAN": "2798310423110", "Name": "banan",
+"Category": "dessert" }, { "EAN": "7431864768932", "Name": "kebab",
+"Category": "frokost" }, { "EAN": "3897021664618", "Name":
+"monster_energidrikk", "Category": "frukt" }, { "EAN": "5647685840814",
+"Name": "appelsin", "Category": "middag" }, { "EAN": "3708108843795",
+"Name": "appelsin", "Category": "frukt" }, { "EAN": "9764885767751",
+"Name": "banan", "Category": "drikke" }, { "EAN": "3029987182816",
+"Name": "monster_energidrikk", "Category": "frokost" }, { "EAN":
+"1327024992685", "Name": "banan", "Category": "frokost" }, { "EAN":
+"5467858750727", "Name": "kebab", "Category": "dessert" }, { "EAN":
+"1852051091835", "Name": "banan", "Category": "dessert" }, { "EAN":
+"8096276262034", "Name": "pizza", "Category": "frukt" }, { "EAN":
+"5562767363143", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "8653576220554", "Name": "monster_energidrikk", "Category":
+"godteri" }, { "EAN": "9372506321215", "Name": "eple", "Category":
+"drikke" }, { "EAN": "7000672853206", "Name": "eple", "Category":
+"drikke" }, { "EAN": "3133345945914", "Name": "kebab", "Category":
+"drikke" }, { "EAN": "1950102612135", "Name": "banan", "Category":
+"frokost" }, { "EAN": "4146656008612", "Name": "kebab", "Category":
+"drikke" }, { "EAN": "9391189839286", "Name": "kebab", "Category":
+"godteri" }, { "EAN": "6023423511382", "Name": "kebab", "Category":
+"dessert" }, { "EAN": "4813819066970", "Name": "eple", "Category":
+"middag" }, { "EAN": "7247108970296", "Name": "monster_energidrikk",
+"Category": "middag" }, { "EAN": "3592796065877", "Name": "pizza",
+"Category": "middag" }, { "EAN": "1389016428956", "Name": "kebab",
+"Category": "middag" }, { "EAN": "7489412068375", "Name": "banan",
+"Category": "drikke" }, { "EAN": "3397382332300", "Name": "appelsin",
+"Category": "middag" }, { "EAN": "6519188904694", "Name": "banan",
+"Category": "drikke" }, { "EAN": "6106205912692", "Name":
+"monster_energidrikk", "Category": "frukt" }, { "EAN": "9326212821464",
+"Name": "pizza", "Category": "frukt" }, { "EAN": "2997208666374",
+"Name": "banan", "Category": "drikke" }, { "EAN": "2448080130399",
+"Name": "kebab", "Category": "frokost" }, { "EAN": "4170372772268",
+"Name": "kebab", "Category": "middag" }, { "EAN": "7113626673485",
+"Name": "monster_energidrikk", "Category": "drikke" }, { "EAN":
+"7751909341307", "Name": "kebab", "Category": "frokost" }, { "EAN":
+"9900383160288", "Name": "pizza", "Category": "middag" }, { "EAN":
+"6358329698540", "Name": "eple", "Category": "frukt" }, { "EAN":
+"9752737277035", "Name": "kebab", "Category": "middag" }, { "EAN":
+"1695757430964", "Name": "pizza", "Category": "dessert" }, { "EAN":
+"6939417834582", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "5266392100379", "Name": "banan", "Category": "godteri" }, {
+"EAN": "1838327894731", "Name": "pizza", "Category": "godteri" }, {
+"EAN": "9162025638445", "Name": "appelsin", "Category": "frokost" }, {
+"EAN": "1242032095211", "Name": "eple", "Category": "middag" }, { "EAN":
+"9062367601619", "Name": "banan", "Category": "frokost" }, { "EAN":
+"6823595324603", "Name": "monster_energidrikk", "Category": "dessert" },
+{ "EAN": "1120725838811", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "2232538402908", "Name": "eple", "Category": "frukt" }, { "EAN":
+"3394531155680", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"2581034807708", "Name": "appelsin", "Category": "drikke" }, { "EAN":
+"7452172811469", "Name": "banan", "Category": "frukt" }, { "EAN":
+"8151007520756", "Name": "eple", "Category": "godteri" }, { "EAN":
+"2320795787664", "Name": "appelsin", "Category": "middag" }, { "EAN":
+"1079401365851", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"1111850890625", "Name": "eple", "Category": "drikke" }, { "EAN":
+"6512599312743", "Name": "monster_energidrikk", "Category": "middag" },
+{ "EAN": "1438369611415", "Name": "monster_energidrikk", "Category":
+"dessert" }, { "EAN": "4642054267472", "Name": "eple", "Category":
+"drikke" }, { "EAN": "2751639011596", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "6849567249417", "Name": "banan", "Category":
+"frokost" }, { "EAN": "3749675642851", "Name": "pizza", "Category":
+"godteri" }, { "EAN": "4687925157499", "Name": "banan", "Category":
+"frukt" }, { "EAN": "1085067013247", "Name": "banan", "Category":
+"drikke" }, { "EAN": "3078870510628", "Name": "monster_energidrikk",
+"Category": "middag" }, { "EAN": "5266239550207", "Name": "appelsin",
+"Category": "frokost" }, { "EAN": "5010223893297", "Name": "kebab",
+"Category": "frukt" }, { "EAN": "6035991844214", "Name": "banan",
+"Category": "frokost" }, { "EAN": "6869377575849", "Name": "banan",
+"Category": "dessert" }, { "EAN": "7033831845510", "Name": "pizza",
+"Category": "frukt" }, { "EAN": "5348413448752", "Name": "appelsin",
+"Category": "dessert" }, { "EAN": "9053964943882", "Name": "pizza",
+"Category": "frokost" }, { "EAN": "5580543060856", "Name": "pizza",
+"Category": "dessert" }, { "EAN": "2706490795831", "Name": "appelsin",
+"Category": "godteri" }, { "EAN": "3087383152750", "Name": "banan",
+"Category": "frokost" }, { "EAN": "3897849753684", "Name": "appelsin",
+"Category": "godteri" }, { "EAN": "2876145785801", "Name": "banan",
+"Category": "middag" }, { "EAN": "6235100842115", "Name": "appelsin",
+"Category": "dessert" }, { "EAN": "5002375185210", "Name": "pizza",
+"Category": "dessert" }, { "EAN": "3169764879571", "Name": "eple",
+"Category": "dessert" }, { "EAN": "7648708271132", "Name":
+"monster_energidrikk", "Category": "frukt" }, { "EAN": "1579313511252",
+"Name": "kebab", "Category": "drikke" }, { "EAN": "9400603685807",
+"Name": "eple", "Category": "frukt" }, { "EAN": "2714795436494", "Name":
+"eple", "Category": "frukt" }, { "EAN": "7686551952014", "Name":
+"appelsin", "Category": "dessert" }, { "EAN": "8896380632437", "Name":
+"kebab", "Category": "frukt" }, { "EAN": "3272145326390", "Name":
+"banan", "Category": "frokost" }, { "EAN": "7105210553737", "Name":
+"kebab", "Category": "drikke" }, { "EAN": "4381215891672", "Name":
+"kebab", "Category": "drikke" }, { "EAN": "1008661064936", "Name":
+"appelsin", "Category": "drikke" }, { "EAN": "9862864487494", "Name":
+"pizza", "Category": "frukt" }, { "EAN": "3790358593916", "Name":
+"monster_energidrikk", "Category": "godteri" }, { "EAN":
+"3358031029448", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"7503484551594", "Name": "banan", "Category": "middag" }, { "EAN":
+"2599868507771", "Name": "appelsin", "Category": "godteri" }, { "EAN":
+"9259891800850", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"3398588668600", "Name": "appelsin", "Category": "godteri" }, { "EAN":
+"6895571458125", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "2807971564071", "Name": "monster_energidrikk", "Category":
+"godteri" }, { "EAN": "4740128232980", "Name": "eple", "Category":
+"middag" }, { "EAN": "4103340904050", "Name": "eple", "Category":
+"frokost" }, { "EAN": "6042378205263", "Name": "banan", "Category":
+"middag" }, { "EAN": "6287590516989", "Name": "kebab", "Category":
+"middag" }, { "EAN": "2784771975486", "Name": "appelsin", "Category":
+"frokost" }, { "EAN": "1001833568307", "Name": "monster_energidrikk",
+"Category": "drikke" }, { "EAN": "7575172173485", "Name": "eple",
+"Category": "drikke" }, { "EAN": "7656174962207", "Name": "kebab",
+"Category": "frokost" }, { "EAN": "8624937138532", "Name":
+"monster_energidrikk", "Category": "frukt" }, { "EAN": "8582130100768",
+"Name": "eple", "Category": "frokost" }, { "EAN": "5651879045975",
+"Name": "kebab", "Category": "middag" }, { "EAN": "3351710263323",
+"Name": "pizza", "Category": "frokost" }, { "EAN": "3595973833662",
+"Name": "pizza", "Category": "frukt" }, { "EAN": "7671811175261",
+"Name": "banan", "Category": "frukt" }, { "EAN": "4926613440039",
+"Name": "pizza", "Category": "middag" }, { "EAN": "9732816878373",
+"Name": "kebab", "Category": "middag" }, { "EAN": "5863291198524",
+"Name": "monster_energidrikk", "Category": "middag" }, { "EAN":
+"1906719953817", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"6605782865573", "Name": "eple", "Category": "dessert" }, { "EAN":
+"3475777103226", "Name": "kebab", "Category": "drikke" }, { "EAN":
+"3329782552001", "Name": "eple", "Category": "frokost" }, { "EAN":
+"9470826904762", "Name": "eple", "Category": "godteri" }, { "EAN":
+"4990939888686", "Name": "banan", "Category": "godteri" }, { "EAN":
+"5107179148404", "Name": "appelsin", "Category": "frokost" }, { "EAN":
+"6900966698896", "Name": "kebab", "Category": "middag" }, { "EAN":
+"8003617218946", "Name": "eple", "Category": "dessert" }, { "EAN":
+"1887393167999", "Name": "pizza", "Category": "frukt" }, { "EAN":
+"9494452270317", "Name": "monster_energidrikk", "Category": "frokost" },
+{ "EAN": "3058663328819", "Name": "kebab", "Category": "frokost" }, {
+"EAN": "9965097843581", "Name": "monster_energidrikk", "Category":
+"godteri" }, { "EAN": "5518063585455", "Name": "appelsin", "Category":
+"middag" }, { "EAN": "7204479509623", "Name": "monster_energidrikk",
+"Category": "middag" }, { "EAN": "7437696062285", "Name": "pizza",
+"Category": "frukt" }, { "EAN": "8384778820869", "Name": "appelsin",
+"Category": "frokost" }, { "EAN": "7561388427917", "Name": "eple",
+"Category": "godteri" }, { "EAN": "7018929395688", "Name": "pizza",
+"Category": "godteri" }, { "EAN": "3048061588510", "Name":
+"monster_energidrikk", "Category": "frukt" }, { "EAN": "7671674333263",
+"Name": "eple", "Category": "middag" }, { "EAN": "3544408944562",
+"Name": "appelsin", "Category": "frokost" }, { "EAN": "4290638882377",
+"Name": "kebab", "Category": "godteri" }, { "EAN": "1883625394942",
+"Name": "appelsin", "Category": "frukt" }, { "EAN": "5515037696506",
+"Name": "eple", "Category": "dessert" }, { "EAN": "8683950358038",
+"Name": "monster_energidrikk", "Category": "middag" }, { "EAN":
+"5579740995333", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"8529447115348", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"3798952116363", "Name": "banan", "Category": "dessert" }, { "EAN":
+"6491483880149", "Name": "appelsin", "Category": "middag" }, { "EAN":
+"8722705445117", "Name": "pizza", "Category": "frukt" }, { "EAN":
+"3897672264201", "Name": "eple", "Category": "frukt" }, { "EAN":
+"6840108420203", "Name": "eple", "Category": "godteri" }, { "EAN":
+"7976406488700", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "1743728189353", "Name": "monster_energidrikk", "Category":
+"frokost" }, { "EAN": "2808947238402", "Name": "kebab", "Category":
+"frukt" }, { "EAN": "1371991527379", "Name": "pizza", "Category":
+"godteri" }, { "EAN": "9460159809651", "Name": "pizza", "Category":
+"frokost" }, { "EAN": "6908893023565", "Name": "pizza", "Category":
+"frokost" }, { "EAN": "2693876656762", "Name": "eple", "Category":
+"godteri" }, { "EAN": "1597554910941", "Name": "monster_energidrikk",
+"Category": "middag" }, { "EAN": "4594114648910", "Name": "pizza",
+"Category": "godteri" }, { "EAN": "8145141103958", "Name": "kebab",
+"Category": "frukt" }, { "EAN": "3704950376369", "Name": "pizza",
+"Category": "middag" }, { "EAN": "8416388209765", "Name": "pizza",
+"Category": "middag" }, { "EAN": "1635976901425", "Name": "appelsin",
+"Category": "godteri" }, { "EAN": "6179048296548", "Name": "pizza",
+"Category": "dessert" }, { "EAN": "2734717261423", "Name": "eple",
+"Category": "middag" }, { "EAN": "5477292262305", "Name": "appelsin",
+"Category": "godteri" }, { "EAN": "7004277877754", "Name": "eple",
+"Category": "drikke" }, { "EAN": "1014042894339", "Name":
+"monster_energidrikk", "Category": "godteri" }, { "EAN":
+"7568673431527", "Name": "appelsin", "Category": "drikke" }, { "EAN":
+"4015932435337", "Name": "eple", "Category": "drikke" }, { "EAN":
+"5314989330440", "Name": "banan", "Category": "drikke" }, { "EAN":
+"3525926413871", "Name": "appelsin", "Category": "middag" }, { "EAN":
+"4249484808527", "Name": "kebab", "Category": "frokost" }, { "EAN":
+"1114914548324", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"3340494007653", "Name": "banan", "Category": "dessert" }, { "EAN":
+"6700562106230", "Name": "kebab", "Category": "dessert" }, { "EAN":
+"8527863474497", "Name": "banan", "Category": "frokost" }, { "EAN":
+"2761227375722", "Name": "eple", "Category": "frokost" }, { "EAN":
+"9399810813450", "Name": "appelsin", "Category": "drikke" }, { "EAN":
+"7428446593234", "Name": "kebab", "Category": "drikke" }, { "EAN":
+"9355114170997", "Name": "eple", "Category": "frukt" }, { "EAN":
+"7404108390389", "Name": "kebab", "Category": "drikke" }, { "EAN":
+"5545756114232", "Name": "eple", "Category": "godteri" }, { "EAN":
+"2179488152164", "Name": "eple", "Category": "frokost" }, { "EAN":
+"8471245429366", "Name": "kebab", "Category": "dessert" }, { "EAN":
+"4349994339938", "Name": "appelsin", "Category": "godteri" }, { "EAN":
+"1544783247351", "Name": "banan", "Category": "frokost" }, { "EAN":
+"6867059812483", "Name": "pizza", "Category": "middag" }, { "EAN":
+"4336274373825", "Name": "appelsin", "Category": "drikke" }, { "EAN":
+"4307330114856", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "6775541780201", "Name": "monster_energidrikk", "Category":
+"godteri" }, { "EAN": "4384266194506", "Name": "appelsin", "Category":
+"godteri" }, { "EAN": "4315705055183", "Name": "eple", "Category":
+"frukt" }, { "EAN": "3537989483502", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "7616373084662", "Name": "kebab", "Category":
+"frokost" }, { "EAN": "8176107346162", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "7805040848541", "Name": "banan", "Category":
+"frokost" }, { "EAN": "6643518084268", "Name": "monster_energidrikk",
+"Category": "frukt" }, { "EAN": "1776343319711", "Name": "eple",
+"Category": "frokost" }, { "EAN": "6158067703838", "Name":
+"monster_energidrikk", "Category": "drikke" }, { "EAN": "9451836832565",
+"Name": "banan", "Category": "frokost" }, { "EAN": "7213499640449",
+"Name": "monster_energidrikk", "Category": "frokost" }, { "EAN":
+"8780815590383", "Name": "banan", "Category": "frokost" }, { "EAN":
+"5236127329032", "Name": "appelsin", "Category": "middag" }, { "EAN":
+"7886021958721", "Name": "kebab", "Category": "frokost" }, { "EAN":
+"6718107841254", "Name": "eple", "Category": "drikke" }, { "EAN":
+"5681456196961", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"7135467606730", "Name": "appelsin", "Category": "godteri" }, { "EAN":
+"6365686785177", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"2643751915516", "Name": "banan", "Category": "frukt" }, { "EAN":
+"9041008036178", "Name": "pizza", "Category": "middag" }, { "EAN":
+"8225880761114", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "1597513282133", "Name": "banan", "Category": "frukt" }, {
+"EAN": "3115873314270", "Name": "monster_energidrikk", "Category":
+"frokost" }, { "EAN": "9259602503014", "Name": "pizza", "Category":
+"frokost" }, { "EAN": "6132637694565", "Name": "pizza", "Category":
+"frukt" }, { "EAN": "2237704892945", "Name": "pizza", "Category":
+"frokost" }, { "EAN": "7783348712455", "Name": "eple", "Category":
+"frukt" }, { "EAN": "1427486362017", "Name": "appelsin", "Category":
+"frukt" }, { "EAN": "1385375583794", "Name": "eple", "Category":
+"drikke" }, { "EAN": "9606005050285", "Name": "eple", "Category":
+"godteri" }, { "EAN": "9619505983631", "Name": "kebab", "Category":
+"frokost" }, { "EAN": "1773379979379", "Name": "pizza", "Category":
+"godteri" }, { "EAN": "3217167502226", "Name": "kebab", "Category":
+"frukt" }, { "EAN": "7825146537179", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "4569854629077", "Name": "kebab", "Category":
+"middag" }, { "EAN": "1029013272931", "Name": "eple", "Category":
+"godteri" }, { "EAN": "9419974981240", "Name": "monster_energidrikk",
+"Category": "godteri" }, { "EAN": "3327689600520", "Name": "pizza",
+"Category": "frukt" }, { "EAN": "8399512588624", "Name": "eple",
+"Category": "middag" }, { "EAN": "9613547456178", "Name":
+"monster_energidrikk", "Category": "middag" }, { "EAN": "5715538409220",
+"Name": "banan", "Category": "frokost" }, { "EAN": "4882683582804",
+"Name": "pizza", "Category": "frukt" }, { "EAN": "6979064353589",
+"Name": "pizza", "Category": "dessert" }, { "EAN": "6144144191767",
+"Name": "banan", "Category": "middag" }, { "EAN": "8326127239307",
+"Name": "banan", "Category": "middag" }, { "EAN": "1746201873906",
+"Name": "pizza", "Category": "frukt" }, { "EAN": "7415356978078",
+"Name": "eple", "Category": "dessert" }, { "EAN": "1635917365119",
+"Name": "kebab", "Category": "frukt" }, { "EAN": "9537158959742",
+"Name": "pizza", "Category": "frokost" }, { "EAN": "9362882531450",
+"Name": "appelsin", "Category": "frokost" }, { "EAN": "4175500371763",
+"Name": "eple", "Category": "frokost" }, { "EAN": "8939465672772",
+"Name": "pizza", "Category": "godteri" }, { "EAN": "5030603147712",
+"Name": "pizza", "Category": "middag" }, { "EAN": "3088606940867",
+"Name": "kebab", "Category": "godteri" }, { "EAN": "2850150271201",
+"Name": "appelsin", "Category": "dessert" }, { "EAN": "7695678364299",
+"Name": "eple", "Category": "middag" }, { "EAN": "6170626562135",
+"Name": "eple", "Category": "dessert" }, { "EAN": "2302134820121",
+"Name": "eple", "Category": "frukt" }, { "EAN": "8452385786686", "Name":
+"appelsin", "Category": "frukt" }, { "EAN": "3581518347523", "Name":
+"pizza", "Category": "middag" }, { "EAN": "5066870637997", "Name":
+"monster_energidrikk", "Category": "godteri" }, { "EAN":
+"7069699280374", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"4633674210503", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "5419423413899", "Name": "banan", "Category": "frokost" }, {
+"EAN": "2701054557245", "Name": "monster_energidrikk", "Category":
+"drikke" }, { "EAN": "9085801784891", "Name": "banan", "Category":
+"frukt" }, { "EAN": "9701852962103", "Name": "appelsin", "Category":
+"dessert" }, { "EAN": "6139638161444", "Name": "appelsin", "Category":
+"middag" }, { "EAN": "7045494209109", "Name": "appelsin", "Category":
+"godteri" }, { "EAN": "1614381431055", "Name": "appelsin", "Category":
+"frukt" }, { "EAN": "4515512804203", "Name": "kebab", "Category":
+"drikke" }, { "EAN": "3927393848885", "Name": "monster_energidrikk",
+"Category": "frokost" }, { "EAN": "3209816233982", "Name": "banan",
+"Category": "dessert" }, { "EAN": "6223424285458", "Name": "pizza",
+"Category": "dessert" }, { "EAN": "3932552736108", "Name":
+"monster_energidrikk", "Category": "middag" }, { "EAN": "1504635249295",
+"Name": "monster_energidrikk", "Category": "godteri" }, { "EAN":
+"1472700548955", "Name": "banan", "Category": "godteri" }, { "EAN":
+"3004176885505", "Name": "appelsin", "Category": "frokost" }, { "EAN":
+"7716343510472", "Name": "banan", "Category": "frokost" }, { "EAN":
+"8031886859016", "Name": "banan", "Category": "drikke" }, { "EAN":
+"2536414042769", "Name": "eple", "Category": "drikke" }, { "EAN":
+"5223986291022", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"6735388007664", "Name": "kebab", "Category": "godteri" }, { "EAN":
+"8377079403484", "Name": "monster_energidrikk", "Category": "drikke" },
+{ "EAN": "9760539882747", "Name": "kebab", "Category": "godteri" }, {
+"EAN": "8118730110347", "Name": "eple", "Category": "drikke" }, { "EAN":
+"8429394851813", "Name": "monster_energidrikk", "Category": "frokost" },
+{ "EAN": "4637494192036", "Name": "kebab", "Category": "frokost" }, {
+"EAN": "4327975519835", "Name": "monster_energidrikk", "Category":
+"dessert" }, { "EAN": "6971475286745", "Name": "kebab", "Category":
+"frukt" }, { "EAN": "3577403655991", "Name": "pizza", "Category":
+"middag" }, { "EAN": "9915304010326", "Name": "monster_energidrikk",
+"Category": "frukt" }, { "EAN": "4399470145531", "Name":
+"monster_energidrikk", "Category": "drikke" }, { "EAN": "1001894132150",
+"Name": "pizza", "Category": "dessert" }, { "EAN": "8078262795525",
+"Name": "monster_energidrikk", "Category": "frokost" }, { "EAN":
+"3263291791702", "Name": "monster_energidrikk", "Category": "frokost" },
+{ "EAN": "8707916045614", "Name": "appelsin", "Category": "godteri" }, {
+"EAN": "4988819229501", "Name": "monster_energidrikk", "Category":
+"frukt" }, { "EAN": "2019328329107", "Name": "pizza", "Category":
+"frokost" }, { "EAN": "6962071446727", "Name": "appelsin", "Category":
+"frukt" }, { "EAN": "4791772587042", "Name": "appelsin", "Category":
+"frukt" }, { "EAN": "2020034377132", "Name": "pizza", "Category":
+"godteri" }, { "EAN": "9588571470515", "Name": "kebab", "Category":
+"drikke" }, { "EAN": "9353962835392", "Name": "monster_energidrikk",
+"Category": "frokost" }, { "EAN": "8078190558177", "Name": "appelsin",
+"Category": "frokost" }, { "EAN": "6182091940750", "Name": "banan",
+"Category": "godteri" }, { "EAN": "6810195985780", "Name": "eple",
+"Category": "middag" }, { "EAN": "8102224090652", "Name": "appelsin",
+"Category": "dessert" }, { "EAN": "9730567176930", "Name": "eple",
+"Category": "frokost" }, { "EAN": "6493359180053", "Name": "eple",
+"Category": "godteri" }, { "EAN": "1442688433701", "Name": "appelsin",
+"Category": "middag" }, { "EAN": "7083135081272", "Name": "banan",
+"Category": "frokost" }, { "EAN": "2319619061651", "Name": "pizza",
+"Category": "godteri" }, { "EAN": "8846559949118", "Name": "pizza",
+"Category": "frukt" }, { "EAN": "8714082950814", "Name": "eple",
+"Category": "middag" }, { "EAN": "1627829152625", "Name":
+"monster_energidrikk", "Category": "frukt" }, { "EAN": "6822866470634",
+"Name": "monster_energidrikk", "Category": "godteri" }, { "EAN":
+"9030909286774", "Name": "pizza", "Category": "drikke" }, { "EAN":
+"4239326560909", "Name": "appelsin", "Category": "frukt" }, { "EAN":
+"5144799460543", "Name": "eple", "Category": "godteri" }, { "EAN":
+"3528905414193", "Name": "banan", "Category": "frokost" }, { "EAN":
+"2943413164942", "Name": "pizza", "Category": "drikke" }, { "EAN":
+"7788843916527", "Name": "kebab", "Category": "drikke" }, { "EAN":
+"7118662306908", "Name": "kebab", "Category": "frukt" }, { "EAN":
+"1218593908412", "Name": "eple", "Category": "frokost" }, { "EAN":
+"7546750068875", "Name": "banan", "Category": "dessert" }, { "EAN":
+"8625318146335", "Name": "pizza", "Category": "frukt" }, { "EAN":
+"1349917825559", "Name": "banan", "Category": "frukt" }, { "EAN":
+"6300057496168", "Name": "appelsin", "Category": "dessert" }, { "EAN":
+"6002593785196", "Name": "pizza", "Category": "godteri" }, { "EAN":
+"4078604631830", "Name": "eple", "Category": "dessert" }, { "EAN":
+"2561358330748", "Name": "kebab", "Category": "middag" }, { "EAN":
+"3955974146419", "Name": "eple", "Category": "godteri" }, { "EAN":
+"6456186971069", "Name": "monster_energidrikk", "Category": "frokost" },
+{ "EAN": "8964921222798", "Name": "pizza", "Category": "dessert" }, {
+"EAN": "2857287363789", "Name": "pizza", "Category": "dessert" }, {
+"EAN": "1360152761196", "Name": "kebab", "Category": "middag" }, {
+"EAN": "5874070493754", "Name": "monster_energidrikk", "Category":
+"frukt" }, { "EAN": "8730725838988", "Name": "banan", "Category":
+"drikke" }, { "EAN": "3610694504029", "Name": "appelsin", "Category":
+"frukt" }, { "EAN": "3613691112468", "Name": "pizza", "Category":
+"godteri" }, { "EAN": "8967663116405", "Name": "banan", "Category":
+"frukt" }, { "EAN": "2395486574274", "Name": "eple", "Category":
+"godteri" }, { "EAN": "5944126272252", "Name": "monster_energidrikk",
+"Category": "frukt" }, { "EAN": "2301518955296", "Name": "pizza",
+"Category": "frokost" }, { "EAN": "2360727397196", "Name": "eple",
+"Category": "middag" }, { "EAN": "5360995472473", "Name": "appelsin",
+"Category": "middag" }, { "EAN": "4984545231365", "Name": "banan",
+"Category": "frokost" }, { "EAN": "4886472496838", "Name": "appelsin",
+"Category": "middag" }, { "EAN": "7053279408665", "Name": "banan",
+"Category": "middag" }, { "EAN": "1127389870225", "Name": "appelsin",
+"Category": "drikke" }, { "EAN": "1401150291949", "Name": "kebab",
+"Category": "frokost" }, { "EAN": "9845147828527", "Name": "banan",
+"Category": "dessert" }, { "EAN": "7522763163652", "Name": "eple",
+"Category": "drikke" }, { "EAN": "9549722834886", "Name":
+"monster_energidrikk", "Category": "middag" }, { "EAN": "3903961411475",
+"Name": "kebab", "Category": "godteri" }, { "EAN": "6747495933778",
+"Name": "banan", "Category": "frukt" }, { "EAN": "1875088916190",
+"Name": "kebab", "Category": "middag" }, { "EAN": "9690139543062",
+"Name": "pizza", "Category": "frukt" }, { "EAN": "8990521808617",
+"Name": "kebab", "Category": "frokost" }, { "EAN": "5908968814491",
+"Name": "banan", "Category": "middag" }, { "EAN": "8120277256593",
+"Name": "kebab", "Category": "drikke" }, { "EAN": "3806219274590",
+"Name": "banan", "Category": "frokost" }, { "EAN": "8725116936211",
+"Name": "eple", "Category": "frukt" }, { "EAN": "4127606890450", "Name":
+"kebab", "Category": "middag" }, { "EAN": "4186544010469", "Name":
+"appelsin", "Category": "dessert" }, { "EAN": "8539493637377", "Name":
+"kebab", "Category": "frokost" }, { "EAN": "3279991576638", "Name":
+"banan", "Category": "middag" }, { "EAN": "5530835089941", "Name":
+"pizza", "Category": "frokost" }, { "EAN": "1441818548256", "Name":
+"pizza", "Category": "godteri" }, { "EAN": "1200284369388", "Name":
+"monster_energidrikk", "Category": "godteri" }, { "EAN":
+"3067975806489", "Name": "banan", "Category": "godteri" }, { "EAN":
+"3380593536668", "Name": "monster_energidrikk", "Category": "godteri" },
+{ "EAN": "4368658615193", "Name": "pizza", "Category": "middag" }, {
+"EAN": "2034983372437", "Name": "banan", "Category": "frokost" }, {
+"EAN": "1705765704400", "Name": "appelsin", "Category": "drikke" }, {
+"EAN": "5648142722638", "Name": "monster_energidrikk", "Category":
+"frokost" }, { "EAN": "1087239991766", "Name": "banan", "Category":
+"frukt" }, { "EAN": "5155585999843", "Name": "banan", "Category":
+"drikke" }, { "EAN": "1132060867393", "Name": "pizza", "Category":
+"middag" }, { "EAN": "7172607661666", "Name": "eple", "Category":
+"frukt" }, { "EAN": "3590425887046", "Name": "eple", "Category":
+"drikke" }, { "EAN": "9558716772954", "Name": "eple", "Category":
+"drikke" }, { "EAN": "6309414186018", "Name": "banan", "Category":
+"dessert" } ] }
+
